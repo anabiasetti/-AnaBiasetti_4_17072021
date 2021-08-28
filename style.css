@@ -362,6 +362,35 @@ a:hover {
   z-index: 2;
 }
 
+.title {
+  max-width: 585px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  line-height: 30px;
+}
+
+.title2 {
+  font-size: 22px;
+  text-transform: none;
+  font-weight: 400;
+  max-width: 430px;
+  margin: 26px auto 18px;
+  line-height: 28px;
+}
+
+.citation {
+  font-size: 20px;
+  max-width: 530px;
+  margin: 8px auto 0;
+  line-height: 27px;
+  font-style: italic;
+}
+
+.author {
+  font-size: 14px;
+}
+
 @media (min-width: 768px) {
   .site-navigation {
     position: absolute;
